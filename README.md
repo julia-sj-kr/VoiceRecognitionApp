@@ -23,7 +23,7 @@ Android 플랫폼에서 RecognizerIntent를 사용하여 시스템 음성 인식
 - **언어**: Java
 - **플랫폼**: Android
 - **개발 환경**: Android Studio
-- **음성 인식 API**: 
+- **음성 인식 API**: RecognizerIntent
 - **통신 프로토콜**:  UDP (User Datagram Protocol)
 - **주요 기능**:
   - `RecognizerIntent`를 사용하여 음성을 인식하고, 인식된 텍스트를 UI에 표시합니다.
