@@ -14,6 +14,7 @@
   - `SpeechRecognizer` 객체를 사용하여 음성을 인식하고, 인식된 텍스트를 UI에 표시합니다.
   - 음성 인식 권한을 요청하고 처리합니다.
   - 마이크 버튼을 눌러 음성 인식을 시작하고, 버튼에서 손을 떼면 인식을 중지합니다.
+- **참고 링크**: https://medium.com/voice-tech-podcast/android-speech-to-text-tutorial-8f6fa71606ac
 
 ## 2. 음성 인식 인텐트 필터 사용 애플리케이션 with UDP 통신
 Android 플랫폼에서 RecognizerIntent를 사용하여 시스템 음성 인식 기능을 호출하고, UDP 프로토콜을 통해 인식된 음성을 네트워크로 전송하는 애플리케이션입니다.<br>
