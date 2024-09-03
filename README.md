@@ -26,7 +26,7 @@ Android 플랫폼에서 RecognizerIntent를 사용하여 시스템 음성 인식
 - **음성 인식 API**: 
 - **통신 프로토콜**:  UDP (User Datagram Protocol)
 - **주요 기능**:
-  - RecognizerIntent를 사용하여 음성을 인식하고, 인식된 텍스트를 UI에 표시합니다.
+  - `RecognizerIntent`를 사용하여 음성을 인식하고, 인식된 텍스트를 UI에 표시합니다.
   - RecognizerIntent.ACTION_RECOGNIZE_SPEECH: 이 상수는 음성 인식 작업을 수행하기 위한 인텐트의 액션을 정의합니다.<br>
   이 액션을 통해 시스템은 음성 인식을 처리할 수 있는 적절한 앱(예: Google 음성 인식 서비스)을 찾습니다.
   - 음성 인식 권한을 요청하고 처리합니다.
